@@ -1,3 +1,3 @@
 # loterence.github.io
 
-This is my peresonal website
+This is my personal website
